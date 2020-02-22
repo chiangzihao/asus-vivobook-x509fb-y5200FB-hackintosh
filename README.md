@@ -1,5 +1,7 @@
 # asus-vivobook-x509fb-y5200FB-hackintosh
-# successfullly installed macOS Mojave 10.14.6(18G87) with Clover 5050（https://mirrors.dtops.cc/iso/MacOS/daliansky_macos/10.14/macOS%20Mojave%2010.14.6%2818G87%29%20Installer%20for%20Intel%20and%20AMD%20with%20Clover%205050%20and%20WEPE.dmg）
+  successfullly installed macOS Mojave 10.14.6(18G87) with Clover 5050
+  #
+ （https://mirrors.dtops.cc/iso/MacOS/daliansky_macos/10.14/macOS%20Mojave%2010.14.6%2818G87%29%20Installer%20for%20Intel%20and%20AMD%20with%20Clover%205050%20and%20WEPE.dmg）
 # Configuration
   
   Specifications	Detail
