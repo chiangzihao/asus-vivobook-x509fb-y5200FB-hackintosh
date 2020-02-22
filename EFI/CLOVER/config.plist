@@ -160,7 +160,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>dart=0 nv_disable=1 -igfxnohdmi -wegnoegpu -v</string>
+		<string>dart=0 nv_disable=1 -igfxnohdmi -wegnoegpu -v -lilubetaall</string>
 		<key>DefaultVolume</key>
 		<string>LastBootedVolume</string>
 		<key>NeverHibernate</key>
@@ -171,7 +171,7 @@
 		<integer>5</integer>
 	</dict>
 	<key>Comment</key>
-	<string>ASUS VivoBook 15 X512FL (BQ083); i5-8265U; UHD 620; GeForce MX250 (disabled); 20GB DDR4 single-stick; 512GB SSD M2 PCIe</string>
+	<string>ASUS VivoBook X509FB (Y5200); i5-8265U; UHD 620; GeForce MX110 (disabled); 8GB DDR4 single-stick; 256GB SSD M2 PCIe</string>
 	<key>Devices</key>
 	<dict>
 		<key>Audio</key>
@@ -253,7 +253,7 @@
 			<true/>
 		</dict>
 		<key>Theme</key>
-		<string>clover-theme-minimal-dark</string>
+		<string>SimpleThemeDark</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
