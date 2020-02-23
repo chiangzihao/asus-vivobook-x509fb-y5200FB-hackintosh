@@ -30,7 +30,7 @@
 - [Acidanthera](https://github.com/acidanthera)
 - [RehabMan](https://github.com/RehabMan)
 
-## Change Log:
+## Change Log
 
 - 2020.2.22
-	- Update EFI.
+	- Uploaded EFI.
